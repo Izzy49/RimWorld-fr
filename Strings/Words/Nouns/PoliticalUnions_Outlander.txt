@@ -1,20 +1,21 @@
-﻿union
+﻿//Common with tribals
+union
 nation
 fédération
 confédération
+alliance
+ligue
+convention
+traité
+pacte
+coalition
+
+//Outlander specific
+fédération
 empire
 ligue
-alliance
-convention
-fédération
-pacte
-engagement
 partenariat
-coalition
+accord
 concorde
-fédération familiale
-entente
-traité
 fusion
 unification
-accord

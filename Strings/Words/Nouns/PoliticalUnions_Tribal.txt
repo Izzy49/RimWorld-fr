@@ -1,8 +1,16 @@
-﻿nation
+//Common with outlanders
+union
+nation
 fédération
 confédération
 alliance
-parenté
+ligue
+convention
+traité
+pacte
+coalition
+
+//Tribe specific
+clan
 peuple
 tribu
-clan
